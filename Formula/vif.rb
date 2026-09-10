@@ -15,3 +15,5 @@ class Vif < Formula
     assert_match "vif", shell_output("#{bin}/vif version")
   end
 end
+
+# test push 1789023323
